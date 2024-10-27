@@ -7,3 +7,5 @@ This repository provides a comprehensive example of how to create a robust proje
 ## Resources
 
 * DDD Key Concepts and Their Importance: [Learn more here](https://www.schirmer.dev.br/about-me/ddd-with-kotlin)
+
+> **Note:** Even though not implemented here, unit testing should be applied to all layers of DDD.
